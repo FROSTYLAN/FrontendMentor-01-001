@@ -120,4 +120,57 @@ p {
     grid-row: 2/3;
     grid-column: 2/3;
   }
+  .card {
+    position: relative;
+    height: 200px;
+  }
+  .animation_right {
+    animation-name: animation_right;
+    animation-duration: 2.8s;
+  }
+  .animation_left {
+    animation-name: animation_left;
+    animation-duration: 2.8s;
+  }
+  .animation_top {
+    animation-name: animation_top;
+    animation-duration: 2.8s;
+  }
+  .animation_bottom {
+    animation-name: animation_bottom;
+    animation-duration: 2.8s;
+  }
+}
+
+@keyframes animation_right {
+  0% {
+    right: 330px;
+  }
+  100% {
+    right: 0;
+  }
+}
+@keyframes animation_left {
+  0% {
+    left: 330px;
+  }
+  100% {
+    left: 0;
+  }
+}
+@keyframes animation_top {
+  0% {
+    top: 115px;
+  }
+  100% {
+    top: 0;
+  }
+}
+@keyframes animation_bottom {
+  0% {
+    bottom: 115px;
+  }
+  100% {
+    bottom: 0;
+  }
 }
