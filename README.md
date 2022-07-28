@@ -1,10 +1,6 @@
 # Frontend Mentor - Four card feature section
 
-#### Ver el sitio:
-```
-https://frontend-mentor-01-001.netlify.app/
-``` 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7275608-843c-48bd-ad3d-abbe4642d803/deploy-status)](https://app.netlify.com/sites/frontend-mentor-01-001/deploys)
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
