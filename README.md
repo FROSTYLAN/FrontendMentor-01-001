@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section
 
-- Live Site URL: [Link del sitio](https://frontend-mentor-01-001.netlify.app/)
+- Live Site URL: [Click aquí](https://frontend-mentor-01-001.netlify.app/)
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
